@@ -1,0 +1,16 @@
+.tech_list{
+display: flex;
+flex-wrap: wrap;
+
+}
+.tech_list img{
+    margin: 0 auto;
+    height: 4rem;
+}
+
+#img-cirle{
+
+    border-radius: 50%;
+
+}
+
